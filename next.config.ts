@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "https://github.com/",
+        hostname: "ppp-6ij7.vercel.app",
         pathname: "/**",
       },
     ],
