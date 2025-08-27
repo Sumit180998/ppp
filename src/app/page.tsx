@@ -7,13 +7,13 @@ export default function Home() {
      
         <Image
           className={styles.logo}
-          src="/image/DSC.JPG"
+          src="/image/DSC.jpg"
           alt="Next.js logo"
           width={480}
           height={380}
           priority
         />
-      <img src="/image/DSC.JPG" style={{width:"300px"}}/>
+      <img src="/image/DSC.jpg" style={{width:"300px"}}/>
         <h1>kjbbbbbbbbbbbb</h1>
     </div>
   );
