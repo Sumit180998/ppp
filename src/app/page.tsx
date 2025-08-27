@@ -14,7 +14,7 @@ export default function Home() {
           priority
         />
       <img src="/image/DSC.JPG" style={{width:"300px"}}/>
-        
+        <h1>kjbbbbbbbbbbbb</h1>
     </div>
   );
 }
